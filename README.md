@@ -71,14 +71,24 @@ A component to display the selected images in a carousel using `react-native-sna
 ## File Structure
 
 HelloWorldApp
+
 ├── assets
+
 ├── node_modules
+
 ├── .gitignore
+
 ├── App.js
+
 ├── ImagePickerComponent.js
+
 ├── CarouselComponent.js
+
 ├── app.json
+
 ├── babel.config.js
+
 ├── package.json
+
 └── index.js
 
